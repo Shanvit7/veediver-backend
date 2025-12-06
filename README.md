@@ -1,4 +1,4 @@
-# Seek Clarity
+# Veediver 
 
 A Go-based REST API server built with the Chi framework.
 
