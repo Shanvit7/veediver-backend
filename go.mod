@@ -1,4 +1,4 @@
-module seek-clarity
+module veediver-backend
 
 go 1.25.1
 

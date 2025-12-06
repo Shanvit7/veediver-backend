@@ -18,7 +18,7 @@
 go.work
 
 # Build artifacts
-seek-clarity
+veediver-backend
 dist/
 build/
 
